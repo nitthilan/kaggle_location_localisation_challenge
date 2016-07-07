@@ -9,7 +9,7 @@ Things done in chronological order:
     - How the scoring is done
     - Num entries in each class/category
     - Num unique categories
-    - 
+
 - Understanding data is line Accuracy, Time feature
     - What individual data means Accuracy, time Feature
     - Visualising data (Distribution of data)
