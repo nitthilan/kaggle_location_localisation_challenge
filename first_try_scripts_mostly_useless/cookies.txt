@@ -1,0 +1,50 @@
+# HTTP Cookie File for domains related to google.com.
+# To download this content click here, press return (Mac only) or copy and paste into a cookies.txt file.
+# It can be then used by wget and other standard complaint tools.
+# Example:  wget -x --load-cookies cookies.txt https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg/related?hl=en
+#
+.google.com	TRUE	/intl/en/chrome/browser/	FALSE	1525491035	__utma	173272373.1470189834.1462419036.1462419036.1462419036.1
+.google.com	TRUE	/intl/en/chrome/browser/	FALSE	1478187035	__utmz	173272373.1462419036.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.google.com	TRUE	/ads/measurement	FALSE	1466499479	TAID	AJHaeXKowQc7uD5NGOMmx5RwhJokdSZA-BwJmcUVg_nYjlRgjo8dQ-nScYP5jot-Ca7lJuFta1WxEvFQHwztK3CYtxJ-PQ
+mail.google.com	FALSE	/mail/u/0	TRUE	0	GMAIL_AT	AF6bupOpWhPXjfNYrisuZb-isM68eZHxcw
+calendar.google.com	FALSE	/calendar	TRUE	1465761996	T	AKUaPmYQ8H2aUSJK5beYDaKMj77m9BOujXaZPB9ye3xN5i57BCtSNyZADQeWJ_UtOzjlm47I3yyo
+calendar.google.com	FALSE	/calendar	TRUE	0	secid	gIliz39M5MzzUvPnoMI_gndcTD4
+mail.google.com	FALSE	/mail/u/0	TRUE	1465377241	GMAIL_IMP	v*2%2Fad-tr-pr*2
+mail.google.com	FALSE	/mail/u/0	TRUE	1465301297	S	cloudsearch=-E3IDVpctIgaIUu4XtEAxA:gmail=5kTgXA4glUpe_H9VjGZZcA
+mail.google.com	FALSE	/mail/u/0	TRUE	1466161697	COMPASS	gmail=CiUACWuJV_9Zy2eojKs3iVNpuR_kV2pLaW0ZYu5GXjvwaPKMosP5ELjy2roF
+.google.com.sg	TRUE	/verify	FALSE	1481107472	SNID	79=_hA70CUA-KCc41rNTJQzYWTtHo3rD-X_27vspgXI=z2tj9gNJKxPFXhSc
+mail.google.com	FALSE	/mail	TRUE	1466140445	COMPASS	gmail=CiUACWuJV_9Zy2eojKs3iVNpuR_kV2pLaW0ZYu5GXjvwaPKMosP5EMLM2boF
+.google.com	TRUE	/ads	FALSE	1509001200	AID	AJHaeXIsX0mlrtPX5Hz-HAlUbKPhIqj0SMKLhQSc0cQuTT7YZ9AyJQ
+.google.com	TRUE	/	FALSE	1525491061	SID	PgP8Jd37tPWixy76xhVq25SceME3U8c2kuZKS9nJOlMQTv6etd-iJ90EM14MLmr9ayyoCA.
+.google.com	TRUE	/	FALSE	1525491061	HSID	ANguuZepjkpM81FI5
+.google.com	TRUE	/	TRUE	1525491061	SSID	An8ezwTT-j11cCT7c
+.google.com	TRUE	/	FALSE	1525491061	APISID	xVSQIYDJrtRL5Y4u/AqGmRQAzIeUoub3V3
+.google.com	TRUE	/	TRUE	1525491061	SAPISID	0kJnLV1QSoLopAl1/AoE48fRVfNoXxYTqo
+accounts.google.com	FALSE	/	TRUE	1525491061	ACCOUNT_CHOOSER	AFx_qI59jP8LVy6zZ0B6t-qmXZOF7LMQ9c53WZ0shoILmYjjLrl0SNWteMVbq5kH8sdKyAsRX8qhB0BGdGnWPGfI_mTlk6bdOaOJz2vRw18b5891j1xN2Mhouec7janDkQ-3Z103KiTVqkXbuM7KUMJdmJaw3IL4Ng
+.google.com.sg	TRUE	/	FALSE	1525491061	SID	PgP8Jd37tPWixy76xhVq25SceME3U8c2kuZKS9nJOlMQTv6etd-iJ90EM14MLmr9ayyoCA.
+.google.com.sg	TRUE	/	FALSE	1525491061	HSID	AjHIKTWOlZkU6am1Q
+.google.com.sg	TRUE	/	TRUE	1525491061	SSID	A-spiE7IBGF3e_mnO
+.google.com.sg	TRUE	/	FALSE	1525491061	APISID	xVSQIYDJrtRL5Y4u/AqGmRQAzIeUoub3V3
+.google.com.sg	TRUE	/	TRUE	1525491061	SAPISID	0kJnLV1QSoLopAl1/AoE48fRVfNoXxYTqo
+mail.google.com	FALSE	/	TRUE	1525492380	OSID	PgP8JY9-jpftRvyijwCXv5Js5ULm8-xNpSr-G6FyRYCg4SwWouHd-zM_TN7v69i2TjfjdQ.
+.docs.google.com	TRUE	/	FALSE	1525493282	WRITELY_SID	PgP8JerMALd7vGQXsDuSjppfBiTGqS6wvNzZZz9A6fw1u9AsRjLFO14XbF_vy3D72hLU7w.
+apis.google.com	FALSE	/	FALSE	1467270000	GPLUS_UI_BETA	0
+mail.google.com	FALSE	/	TRUE	0	S	cloudsearch=-E3IDVpctIgaIUu4XtEAxA
+accounts.google.com	FALSE	/	TRUE	1527911334	GAPS	1:TLmyXdbI9XZOM1kQpZtT8uewmyN1GA:WdKVpnJX55zi6b1t
+accounts.google.com	FALSE	/	TRUE	1527911334	LSID	ah|cl|doritos|mail|o.calendar.google.com|o.mail.google.com|s.SG|s.youtube|ss|writely:PgP8JbGvDpiNBBpjdVYP0HTbd4HrUz-Av7zoe3i5Qgp1a1xZiJpw2s-bjBWBahKQ3nFL5g.
+calendar.google.com	FALSE	/	TRUE	1527911334	OSID	WgP8Jd7tD4ZbYTTQpr-biXjvmUz1vgZjC_lTQIU2qaqcnvNxgas7XyX2wL0i5xZnXPCbUg.
+.calendar.google.com	TRUE	/	FALSE	1527911337	_ga	GA1.3.1001027034.1464839338
+.drive.google.com	TRUE	/	FALSE	1527920713	_ga	GA1.3.389714090.1462421278
+.docs.google.com	TRUE	/	TRUE	0	S	explorer=Y5Wue8UipvggZN_zcKbnbw
+hangouts.google.com	FALSE	/	FALSE	0	llbcs	23
+.google.com	TRUE	/	FALSE	1481102094	NID	79=esriiRSxEs8KUruEOUzfvCWMpMb4KWUZ6emEwlpiEvKLn0pWPifSpFpRQA7KySaXT8EvNqI_V-FR-oHcozU16I7tkOkyrIdsTb-ccytqFjShRYsuYQMaYUMVDHnZvsRT5ViNHv4vTPNZGypfrzI_ncNotuEGrDPCQglkXyi_B1oO9SPT6cN8aK_ZbRoG1eihSlMqhXst0sl5OW_AjJzXJBZfVLvi32iPQx10uVo
+apis.google.com	FALSE	/	TRUE	1467883272	OTZ	3383121_34_34__34_
+drive.google.com	FALSE	/	TRUE	0	S	explorer=7UiTyW23sttWYrm7VCJOhg
+.google.com.sg	TRUE	/	FALSE	1481108705	NID	79=HNm2L0ST0EWszQxY2jCl-j4U_SnLS28ejMdHS4ZFpos9uJlaF26OfjXnxkfrtaTCKKQvVkXklqPYFw3ZAoY-wugL6gbVxh_qojyGrXY2XLbs6w_xwRpAGVtBnZkHg-yN9NAurwVYn-vVDGLYiO-C0XeiVoxq3K3RKLGZrzhs623T_a6X1sWd5guLO2jTgQ9UH0WzGSLYigkGUfKKWQI0
+plus.google.com	FALSE	/	TRUE	1467890304	OTZ	3383238_34_34__34_
+www.google.com.sg	FALSE	/	FALSE	1465299540	DV	4rYjjP4m-D1PxtBGytCv9RAn4D5VqlrycdXobq8oCgAAAPKRspg5YGbSFwAAAAF9zwfA0WluBgAAAA
+.chrome.google.com	TRUE	/	FALSE	1465299543	__utmt	1
+.chrome.google.com	TRUE	/	FALSE	1528370952	__utma	73091649.251732855.1463050345.1463489840.1465298943.3
+.chrome.google.com	TRUE	/	FALSE	1465300752	__utmb	73091649.22.0.1465298947982
+.chrome.google.com	TRUE	/	FALSE	0	__utmc	73091649
+.chrome.google.com	TRUE	/	FALSE	1481066952	__utmz	73091649.1465298943.3.3.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided)
